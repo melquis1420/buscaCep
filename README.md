@@ -1,10 +1,10 @@
-# consumo_servicos
+  # BuscaCEP
 
-A new Flutter project.
+Simple zip finder.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+A simple application to consume API and return based on the zip code typed by the user
 
 A few resources to get you started if this is your first Flutter project:
 
